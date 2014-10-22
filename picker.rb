@@ -1,5 +1,6 @@
 =begin
-  Function pick_engineer use for random name of engineer
+  function pick_engineer use for random engineer name from text file
+  this case text file is engineers.txt
 =end
 
 def pick_engineer
